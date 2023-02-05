@@ -1,4 +1,4 @@
-# Next Dimension Game Info
+# Next Dimension Gaming Info
 A front-end React app created using CSS for styling and RAWG for the API
 ---
 -We open up Next Dimension Game Info with an eye opening landing page, styled with CSS using the game art from the API call, which was made using Axios and the React useEffect hook. "Entrance Button" is the name I gave the button you must click to 'Enter into the Next Dimension', a play on words as well as a on click event that runs a lock and key effect to make the user feel as if they are opening and entering into the next dimension.
